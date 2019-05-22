@@ -1,4 +1,4 @@
-# Ground Control ( VUE.js Testing Envirnoment )
+# Ground Control (VUE.js Testing Envirnoment)
 
 ## Created by Bean Wong
 ```
