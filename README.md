@@ -1,29 +1,7 @@
-# ground-control
+# Ground Control ( VUE.js Testing Envirnoment )
 
-## Project setup
+## Created by Bean Wong
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+Date: 2019 May 22
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
